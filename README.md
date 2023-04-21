@@ -1,2 +1,2 @@
 # Kanken_Voice_App
-A voice plugin to integrate with Nissan Inspect Application.
+A voice plugin to integrate with Inspect Application.
